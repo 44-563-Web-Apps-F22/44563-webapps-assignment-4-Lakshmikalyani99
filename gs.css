@@ -1,5 +1,5 @@
 .speech{
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
     font-size: 16px;
     color: black;
     }
@@ -21,138 +21,39 @@
     .will{
         color: #5928E5;
         }
-        .fred{
+        .pointer{
         color: #A57C00;
         }
-        .ruth{
+        .faider{
         color: darkgreen;
         }
-        .mable{
+        .damber{
         color: purple;
         }
-        .sergeant{
+        .merry{
         color: orangered;
         }
-        .police{
+        .fair{
         color: #583270;
         }
-        .group{
-        color: #B3B6E3;
+        .katty{
+        color: #1f2ced;
         font-weight: bolder;
-        font-size: 25px;
+        font-size: 24px;
         }
-        .pointer{
-            color: #5928E5;
-            }
-            .fred{
-            color: #A57C00;
-            }
-            .ruth{
-            color: darkgreen;
-            }
-            .mable{
-            color: purple;
-            }
-            .sergeant{
-            color: orangered;
-            }
-            .police{
-            color: #583270;
-            }
-            .group{
-            color: #B3B6E3;
-            font-weight: bolder;
-            font-size: 25px;
-            }
-            .faider{
-                color: #5928E5;
-                }
-                .fred{
-                color: #A57C00;
-                }
-                .ruth{
-                color: darkgreen;
-                }
-                .mable{
-                color: purple;
-                }
-                .sergeant{
-                color: orangered;
-                }
-                .police{
-                color: #583270;
-                }
-                .group{
-                color: #B3B6E3;
-                font-weight: bolder;
-                font-size: 25px;
-                }
-                .damber{
-                    color: #5928E5;
-                    }
-                    .fred{
-                    color: #A57C00;
-                    }
-                    .ruth{
-                    color: darkgreen;
-                    }
-                    .mable{
-                    color: purple;
-                    }
-                    .sergeant{
-                    color: orangered;
-                    }
-                    .police{
-                    color: #583270;
-                    }
-                    .group{
-                    color: #B3B6E3;
-                    font-weight: bolder;
-                    font-size: 25px;
-                    }
-                    .merry{
-                        color: #5928E5;
-                        }
-                        .fred{
-                        color: #A57C00;
-                        }
-                        .ruth{
-                        color: darkgreen;
-                        }
-                        .mable{
-                        color: purple;
-                        }
-                        .sergeant{
-                        color: orangered;
-                        }
-                        .police{
-                        color: #583270;
-                        }
-                        .group{
-                        color: #B3B6E3;
-                        font-weight: bolder;
-                        font-size: 25px;
-                        }
-                        .katty{
-                            color: #5928E5;
-                            }
-                            .fred{
-                            color: #A57C00;
-                            }
-                            .ruth{
-                            color: darkgreen;
-                            }
-                            .mable{
-                            color: purple;
-                            }
-                            .sergeant{
-                            color: orangered;
-                            }
-                            .police{
-                            color: #583270;
-                            }
-                            .group{
-                            color: #B3B6E3;
-                            font-weight: bolder;
-                            font-size: 25px;
-                            }
+        table,th,td{
+            margin: 1px solid #ddd;
+            border-collapse: collapse;
+            width: 40%;
+        }
+        th {
+            padding: 10px;
+            text-align: left;
+            background-color: blueviolet;
+            color: black;
+          }
+          td{
+            padding: 12px;
+          }
+          tr:nth-child(even){background-color: #c42020;}
+        
