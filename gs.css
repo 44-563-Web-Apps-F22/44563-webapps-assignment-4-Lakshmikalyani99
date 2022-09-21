@@ -1,0 +1,158 @@
+.speech{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+    color: black;
+    }
+    .name{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    color: black;
+    }
+    .direction{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background-color: #ACDDDE;
+    color: black;
+    }
+    .direction:hover{
+        background-color: #5928E5;
+        color: blue;
+    }
+    .will{
+        color: #5928E5;
+        }
+        .fred{
+        color: #A57C00;
+        }
+        .ruth{
+        color: darkgreen;
+        }
+        .mable{
+        color: purple;
+        }
+        .sergeant{
+        color: orangered;
+        }
+        .police{
+        color: #583270;
+        }
+        .group{
+        color: #B3B6E3;
+        font-weight: bolder;
+        font-size: 25px;
+        }
+        .pointer{
+            color: #5928E5;
+            }
+            .fred{
+            color: #A57C00;
+            }
+            .ruth{
+            color: darkgreen;
+            }
+            .mable{
+            color: purple;
+            }
+            .sergeant{
+            color: orangered;
+            }
+            .police{
+            color: #583270;
+            }
+            .group{
+            color: #B3B6E3;
+            font-weight: bolder;
+            font-size: 25px;
+            }
+            .faider{
+                color: #5928E5;
+                }
+                .fred{
+                color: #A57C00;
+                }
+                .ruth{
+                color: darkgreen;
+                }
+                .mable{
+                color: purple;
+                }
+                .sergeant{
+                color: orangered;
+                }
+                .police{
+                color: #583270;
+                }
+                .group{
+                color: #B3B6E3;
+                font-weight: bolder;
+                font-size: 25px;
+                }
+                .damber{
+                    color: #5928E5;
+                    }
+                    .fred{
+                    color: #A57C00;
+                    }
+                    .ruth{
+                    color: darkgreen;
+                    }
+                    .mable{
+                    color: purple;
+                    }
+                    .sergeant{
+                    color: orangered;
+                    }
+                    .police{
+                    color: #583270;
+                    }
+                    .group{
+                    color: #B3B6E3;
+                    font-weight: bolder;
+                    font-size: 25px;
+                    }
+                    .merry{
+                        color: #5928E5;
+                        }
+                        .fred{
+                        color: #A57C00;
+                        }
+                        .ruth{
+                        color: darkgreen;
+                        }
+                        .mable{
+                        color: purple;
+                        }
+                        .sergeant{
+                        color: orangered;
+                        }
+                        .police{
+                        color: #583270;
+                        }
+                        .group{
+                        color: #B3B6E3;
+                        font-weight: bolder;
+                        font-size: 25px;
+                        }
+                        .katty{
+                            color: #5928E5;
+                            }
+                            .fred{
+                            color: #A57C00;
+                            }
+                            .ruth{
+                            color: darkgreen;
+                            }
+                            .mable{
+                            color: purple;
+                            }
+                            .sergeant{
+                            color: orangered;
+                            }
+                            .police{
+                            color: #583270;
+                            }
+                            .group{
+                            color: #B3B6E3;
+                            font-weight: bolder;
+                            font-size: 25px;
+                            }
