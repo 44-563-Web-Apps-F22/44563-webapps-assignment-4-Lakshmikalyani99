@@ -55,5 +55,12 @@
           td{
             padding: 12px;
           }
-          tr:nth-child(even){background-color: #c42020;}
-        
+          tr:nth-child(even){background-color: #eeebf7;}
+          .name:hover{
+            border:2px dashed rgb(0, 255, 166);
+            text-shadow: 4px 5px 9px #ff009d; 
+            
+          }
+          .name{
+            padding: 4px;
+          }
